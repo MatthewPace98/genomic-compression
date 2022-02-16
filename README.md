@@ -1,3 +1,3 @@
 # Genomic Compression
 
-Repo for upcoming 'Comparison of Lossless Genomic File Compression Methods' article.
+Repo for scripts used in upcoming 'Comparison of Lossless Genomic File Compression Methods' article.
