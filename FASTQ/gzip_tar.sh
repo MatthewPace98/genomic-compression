@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# compression level was manually inputted after 'gzip'
+
 samples=(D2 D3 D4)
 for sample in ${samples[@]};
 do

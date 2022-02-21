@@ -1,8 +1,8 @@
 #!/bin/bash
-t=1
-c=fast
 
+c=fast # compression level
 samples=(D2 D3 D4)
+
 for sample in ${samples[@]};
 do
 	echo $sample

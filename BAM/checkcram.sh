@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Script used to confirm losslessness in CRAM conversion by variant calling.
+# This was used on the original BAM files and the uncompressed BAM files. Results where identical.
+
 t=16 # threads
 
 out=check_bam_out
